@@ -1,0 +1,14 @@
+E:\codes\training\deveopsazure\AspNetCoreApp\UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\codes\training\deveopsazure\AspNetCoreApp\UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\codes\training\deveopsazure\AspNetCoreApp\UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\codes\training\deveopsazure\AspNetCoreApp\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.deps.json
+E:\codes\training\deveopsazure\AspNetCoreApp\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.json
+E:\codes\training\deveopsazure\AspNetCoreApp\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.dev.json
+E:\codes\training\deveopsazure\AspNetCoreApp\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.dll
+E:\codes\training\deveopsazure\AspNetCoreApp\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.pdb
+E:\codes\training\deveopsazure\AspNetCoreApp\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csprojAssemblyReference.cache
+E:\codes\training\deveopsazure\AspNetCoreApp\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csproj.CoreCompileInputs.cache
+E:\codes\training\deveopsazure\AspNetCoreApp\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfoInputs.cache
+E:\codes\training\deveopsazure\AspNetCoreApp\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfo.cs
+E:\codes\training\deveopsazure\AspNetCoreApp\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.dll
+E:\codes\training\deveopsazure\AspNetCoreApp\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.pdb
